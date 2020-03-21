@@ -1,4 +1,4 @@
-# CSS-Slicing(PSD-to-HTML)History&Sample
+# History-and-Sample-of-CSS-Slicing-PSD-to-HTML
 
 https://codepen.io/johch3n611u/full/zYGjxvg
 

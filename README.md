@@ -2,14 +2,16 @@
 
 ## Branch
 
-* Version 1. [History-and-Sample-of-CSS-Slicing-PSD-to-HTML](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML) - [Codepen_demo](https://codepen.io/johch3n611u/full/zYGjxvg)
+* Version 1. [History-and-Sample-of-CSS-Slicing-PSD-to-HTML](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML)
 
 * Version 2. Mixed many Sample of CSS
+
+* [Codepen_demo](https://codepen.io/johch3n611u/full/zYGjxvg)
 
 ![IMAGE](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML/blob/master/img/index.png?raw=true)
 
 <details>
-<summary>Amos 課程推薦</summary>
+<summary>Amos_課程推薦</summary>
 
 ### 課程費用（可分期/有名額限制請把握）
 

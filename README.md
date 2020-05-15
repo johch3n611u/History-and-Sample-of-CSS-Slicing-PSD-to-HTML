@@ -2,7 +2,7 @@
 
 ## Branch
 
-* Version 1. [History-and-Sample-of-CSS-Slicing-PSD-to-HTML](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML) [Codepen_demo](https://codepen.io/johch3n611u/full/zYGjxvg)
+* Version 1. [History-and-Sample-of-CSS-Slicing-PSD-to-HTML](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML) - [Codepen_demo](https://codepen.io/johch3n611u/full/zYGjxvg)
 
 * Version 2. Mixed many Sample of CSS
 

@@ -4,7 +4,7 @@
 
 * Version 1. [History-and-Sample-of-CSS-Slicing-PSD-to-HTML](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML)
 
-* Version 2. Mixed many Sample of CSS
+* Version 2. Add Design Process and Keep Sorting Sample of CSS
 
 * [Codepen_demo](https://codepen.io/johch3n611u/full/zYGjxvg)
 

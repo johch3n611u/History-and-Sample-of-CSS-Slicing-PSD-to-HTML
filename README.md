@@ -9,7 +9,7 @@
 ![IMAGE](https://github.com/johch3n611u/History-and-Sample-of-CSS-Slicing-PSD-to-HTML/blob/master/img/index.png?raw=true)
 
 <details>
-<summary>Amos_課程推薦</summary>
+<summary>Amos 課程推薦</summary>
 
 ### 課程費用（可分期/有名額限制請把握）
 
